@@ -1,4 +1,4 @@
-require './my_enumerable.rb'
+require './my_enumerable'
 
 class MyList
   def initialize(*list)
